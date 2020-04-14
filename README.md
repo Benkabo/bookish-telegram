@@ -5,4 +5,4 @@ used react hook and reducers
 
 Created by  Benedict Kaboyoka
 
-Deployed in Netlify
+Deployed on Netlify

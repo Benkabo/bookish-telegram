@@ -52,8 +52,12 @@ body {
   color: #ddd;
 }
 .empty {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   padding: 20px;
+}
+.empty-icon {
+  padding-left: 10px;
 }
 form {
   padding: 20px;
